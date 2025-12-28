@@ -964,7 +964,7 @@
     .culture-card {
         width: 100%;
         max-width: 360px;
-        height: 380px;
+        height: auto;
         flex-direction: column;
         padding: 24px;
         gap: 20px;
@@ -999,8 +999,9 @@
         left: auto;
         right: auto;
         bottom: auto;
-        width: 80%;
-        height: 200px;
+        width: 100%;
+        height: auto;
+        min-height: 160px;
         opacity: 1;
         transform: none;
         margin: 0;
@@ -1011,7 +1012,6 @@
         justify-content: center;
         align-items: center;
         text-align: center;
-        margin-left: 20%;
     }
 
     .hover-content {

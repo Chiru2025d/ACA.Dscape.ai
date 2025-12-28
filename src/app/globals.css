@@ -603,11 +603,11 @@ h6 {
 }
 
 .mobile-submenu button {
+  cursor: pointer;
   background: none;
   border: none;
-  font-weight: 600;
-  padding: 17px 0;
-  cursor: pointer;
+  padding: 20px 0;
+  /* font-weight: 600; */
 }
 
 .mobile-submenu-items {
@@ -628,9 +628,9 @@ h6 {
 }
 
 @media (max-width: 768px) {
-  .mobile-submenu button{
+  .mobile-submenu button {
     color: #52422a;
-    font-size: 12px;
+    font-size: 15px;
   }
   .desktop-only {
     display: none;

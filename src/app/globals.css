@@ -231,7 +231,7 @@ h6 {
   }
 
   .header-nav a {
-    font-size: 11px;
+    font-size: 16px;
   }
 }
 
@@ -571,7 +571,7 @@ h6 {
   display: none;
   background: none;
   border: none;
-  font-size: 12px !important;
+  font-size: 16px !important;
   font-weight: 600;
   text-transform: uppercase;
   width: 100%;

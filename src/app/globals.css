@@ -622,6 +622,7 @@ h6 {
 @media (max-width: 768px) {
   .mobile-submenu button{
     color: #52422a;
+    font-size: 12px;
   }
   .desktop-only {
     display: none;

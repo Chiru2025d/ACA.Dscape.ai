@@ -964,7 +964,7 @@
     .culture-card {
         width: 100%;
         max-width: 360px;
-        height: auto;
+        height: 380px;
         flex-direction: column;
         padding: 24px;
         gap: 20px;
@@ -1000,7 +1000,7 @@
         right: auto;
         bottom: auto;
         width: 80%;
-        height: auto;
+        height: 200px;
         opacity: 1;
         transform: none;
         margin: 0;

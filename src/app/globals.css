@@ -604,9 +604,9 @@ h6 {
 
 .mobile-submenu button {
   cursor: pointer;
-  background: none;
+  background: 0 0;
   border: none;
-  padding: 20px 0;
+  padding: 15px 0;
   /* font-weight: 600; */
 }
 

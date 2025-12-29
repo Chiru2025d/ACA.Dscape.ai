@@ -747,7 +747,8 @@
     background-color: #FDFBF7;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: flex-start;
+    padding-left: 40px;
 }
 
 .culture-heading {
@@ -776,6 +777,7 @@
     width: 1113.5px;
     max-width: 100%;
     justify-content: flex-start;
+    align-items: stretch;
 }
 
 .culture-card {
@@ -956,13 +958,15 @@
     .culture-section {
         padding-top: 60px !important;
         padding-bottom: 60px !important;
+        padding-left: 20px !important;
+        align-items: flex-start;
     }
 
     .culture-heading {
-        text-align: center;
+        text-align: left;
         font-size: 24px;
         margin-bottom: 30px;
-        padding: 0 20px;
+        padding: 0;
     }
 
     .culture-outer {

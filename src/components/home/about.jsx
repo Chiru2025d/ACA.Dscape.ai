@@ -14,13 +14,13 @@ export default function About() {
 
             <p>
               <span style={{ color: '#4B4F58' }}>
-                <span style={{ fontFamily: "'Be Vietnam', sans-serif", fontWeight: 600}}>ACA</span>
+                <span style={{ fontFamily: "'Be Vietnam', sans-serif", fontWeight: 593}}>ACA</span>
                 <span style={{ fontWeight: 400 }}>Juris</span>
                 <span style={{ fontWeight: 300 }}>,</span>
               </span> is a Bangalore-based multidisciplinary law firm with 
 a core focus on criminal law. Established in 2002, the firm brings over 25 years of dedicated 
 experience in advising and representing individual and corporate clients across all stages of 
-criminal litigation—from Magistrate and Sessions Courts to the High Court. <span style={{ color: '#4B4F58' }}><span style={{ fontFamily: "'Be Vietnam', sans-serif", fontWeight: 400 }}>ACA</span><span style={{ fontWeight: 400 }}>Juris</span></span> offers strategic legal counsel and courtroom representation grounded in practical 
+criminal litigation—from Magistrate and Sessions Courts to the High Court. <span style={{ color: '#4B4F58' }}><span style={{ fontFamily: "'Be Vietnam', sans-serif", fontWeight: 593 }}>ACA</span><span style={{ fontWeight: 400 }}>Juris</span></span> offers strategic legal counsel and courtroom representation grounded in practical 
 insight. The Firm engages with a wide range of matters, including offences under the Indian 
 Penal Code, prosecutions under the Companies Act, infringement of copyright and trademark 
 laws, workplace sexual harassment, cheque dishonour under the Negotiable Instruments Act, 

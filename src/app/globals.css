@@ -131,7 +131,7 @@ h6 {
 
 .logo-img {
   width: 222px;
-  height: 71px;
+  height: auto;
   object-fit: contain;
   flex-shrink: 0;
   image-rendering: -webkit-optimize-contrast;

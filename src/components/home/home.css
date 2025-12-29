@@ -1287,7 +1287,7 @@
     font-family: "Be Vietnam", sans-serif;
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 25px;
 }
 
@@ -1495,6 +1495,14 @@
     font-size: 0.9rem;
     line-height: 1.4;
     color: #fff;
+}
+
+.teamJob {
+    color: #bda588;
+    font-family: "Be Vietnam Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 2;
 }
 
 /* --- Tablet (Max Width: 1024px) --- */

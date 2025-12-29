@@ -613,7 +613,7 @@ h6 {
 .mobile-submenu-items {
   display: none;
   flex-direction: column;
-  gap: 15px;
+  gap: 10px;
   padding-bottom: 10px;
 }
 

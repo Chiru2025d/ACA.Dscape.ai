@@ -1505,6 +1505,13 @@
     line-height: 2;
 }
 
+.teamName {
+    border: 1px solid transparent;
+    position: relative;
+    z-index: 3;
+    padding: 2px 4px;
+}
+
 /* --- Tablet (Max Width: 1024px) --- */
 @media screen and (max-width: 1024px) {
     .team-cards {

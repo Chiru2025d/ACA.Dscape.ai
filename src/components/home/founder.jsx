@@ -101,7 +101,11 @@ export default function Founder() {
                             className=''
                             width={400}
                             height={600}
-                            style={{ width: '100%',padding:'20px' }}
+                            priority
+                            unoptimized={true}
+                            quality={100}
+                            sizes="(max-width: 480px) 100%, (max-width: 768px) 100%, 450px"
+                            style={{ width: '100%', padding: '20px', objectFit: 'contain' }}
                         />
                     </div>
                 </div>

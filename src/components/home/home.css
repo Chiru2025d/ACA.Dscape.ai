@@ -494,14 +494,14 @@
 
     .hero-bg-carousel {
         position: relative;
-        width: calc(100% - 40px);
+        width: 100%;
         height: auto;
         aspect-ratio: 0.9;
         min-height: 400px;
         flex: 0 0 auto;
         order: 1;
-        margin: 20px auto 0;
-        border-radius: 12px;
+        margin: 0;
+        border-radius: 0;
         overflow: hidden;
     }
     .hero-bg-image {

@@ -14,7 +14,7 @@ export default function About() {
 
             <p>
               <span style={{ color: '#4B4F58' }}>
-                <span style={{ fontFamily: "'Be Vietnam', sans-serif", fontWeight: 593}}>ACA</span>
+                <span style={{ fontFamily: "'Be Vietnam', sans-serif", fontWeight: 600}}>ACA</span>
                 <span style={{ fontWeight: 400 }}>Juris</span>
                 <span style={{ fontWeight: 300 }}>,</span>
               </span> is a Bangalore-based multidisciplinary law firm with 

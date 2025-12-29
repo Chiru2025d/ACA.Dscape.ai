@@ -25,7 +25,7 @@ export default function Culture() {
       title: <>Our Core<br />Expertise</>,
       icon: "/icons/expertise.svg",
       desc:
-        (<>… being Criminal Law, <span style={{ color: '#4B4F58' }}><span style={{ fontWeight: 700 }}>ACA</span><span style={{ fontWeight: 400 }}>Juris</span></span> is noted as having familiarity with arduous criminal litigations and recognised as Criminal Law Attorneys.</>),
+        (<>… being Criminal Law, <span style={{ color: '#4B4F58' }}><span style={{ fontFamily: "'Be Vietnam', sans-serif", fontWeight: 600 }}>ACA</span><span style={{ fontWeight: 400 }}>Juris</span></span> is noted as having familiarity with arduous criminal litigations and recognised as Criminal Law Attorneys.</>),
     },
     {
       title: <>Across the<br />Board</>,

@@ -29,7 +29,8 @@ export default function Header() {
               className="logo-img"
               priority
               unoptimized={true}
-              sizes="(max-width: 768px) 160px, 222px"
+              quality={100}
+              sizes="(max-width: 480px) 180px, (max-width: 768px) 200px, 222px"
             />
           </Link>
         </div>

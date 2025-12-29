@@ -865,14 +865,14 @@
 }
 
 .culture-title {
-    position: absolute;
-    top: 14px;
-    left: 14px;
-    font-family: 'Be Vietnam', sans-serif;
+    color: #1a1a1a;
+    z-index: 3;
+    font-family: Be Vietnam, sans-serif;
     font-size: 15px;
     font-weight: 600;
-    color: #1A1A1A;
-    z-index: 3;
+    position: absolute;
+    top: 14px;
+    left: 20px;
 }
 
 .culture-hover-box {

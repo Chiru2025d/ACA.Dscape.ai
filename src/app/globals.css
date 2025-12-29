@@ -240,8 +240,8 @@ h6 {
 
 @media screen and (max-width: 480px) {
   .logo-img {
-    width: 180px;
-    height: 57px;
+    width: 200px;
+    height: 64px;
     object-fit: contain;
   }
 

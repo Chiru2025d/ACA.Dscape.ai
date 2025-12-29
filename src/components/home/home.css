@@ -949,7 +949,7 @@
 
     .culture-outer {
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content: flex-start;
     }
 }
 
@@ -971,9 +971,11 @@
 
     .culture-outer {
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
         padding-top: 24px !important;
         padding-bottom: 24px !important;
+        width: 100%;
+        padding-left: 0 !important;
     }
 
     .culture-card {

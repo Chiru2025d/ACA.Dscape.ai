@@ -138,11 +138,13 @@
 .hero-bg-carousel {
     position: absolute;
     top: 0;
-    left: 0;
-    width: 100%;
+    left: 20px;
+    right: 20px;
+    width: calc(100% - 40px);
     height: 100%;
     z-index: 0;
     overflow: hidden;
+    border-radius: 12px;
 }
 
 .hero-bg-image {
@@ -452,6 +454,13 @@
         height: auto !important;
     }
 
+    .hero-bg-carousel {
+        position: relative;
+        left: 20px;
+        right: 20px;
+        width: calc(100% - 40px);
+    }
+
     .hero-content {
         flex-direction: column;
         justify-content: flex-end;
@@ -488,13 +497,15 @@
 
     .hero-bg-carousel {
         position: relative;
-        width: 100%;
+        width: calc(100% - 40px);
         height: auto;
         aspect-ratio: 0.9;
         min-height: 400px;
         flex: 0 0 auto;
         order: 1;
-        /* padding: 30px; */
+        margin: 20px auto 0;
+        border-radius: 12px;
+        overflow: hidden;
     }
     .hero-bg-image {
     object-fit: contain;

@@ -134,6 +134,7 @@ h6 {
   height: 71px;
   object-fit: contain;
   flex-shrink: 0;
+  image-rendering: crisp-edges;
 }
 
 .header-nav {

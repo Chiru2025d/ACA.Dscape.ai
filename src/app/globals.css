@@ -130,8 +130,8 @@ h6 {
 }
 
 .logo-img {
-  width: 222px;
-  height: auto;
+  width: 272px;
+  height: 86;
   object-fit: contain;
   flex-shrink: 0;
   image-rendering: crisp-edges;

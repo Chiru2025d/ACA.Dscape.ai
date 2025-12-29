@@ -109,9 +109,6 @@ export default function Hero() {
                 fill
                 className={`hero-bg-image ${(slide.src.includes('Frame-2') || (isMobile && slide.mobileSrc && slide.mobileSrc.includes('Frame-2_mob'))) ? 'hero-frame-2' : ''}`}
                 priority={idx === 0}
-                quality={90}
-                sizes="100vw"
-                style={{ objectFit: "cover" }}
               />
             </div>
           ))}
@@ -147,14 +144,14 @@ export default function Hero() {
             <div className="contact-row">
               <span className="contact-text">office@acajuris.com</span>
               <a href="mailto:office@acajuris.com" className="contact-icon-bubble">
-                <Image src="/images/email.svg" alt="Email" width={20} height={20} unoptimized={true} />
+                <Image src="/images/email.svg" alt="Email" width={20} height={20} />
               </a>
             </div>
 
             <div className="contact-row">
               <span className="contact-text">+(91) 96638 12090</span>
               <a href="tel:+919663812090" className="contact-icon-bubble">
-                <Image src="/images/phone.svg" alt="Phone" width={20} height={20} unoptimized={true} />
+                <Image src="/images/phone.svg" alt="Phone" width={20} height={20} />
               </a>
             </div>
           </div>

@@ -300,6 +300,11 @@ h6 {
     bottom: 15px;
     right: 15px;
   }
+
+  .logo-img {
+    width: 223px;
+    height: auto;
+  }
 }
 
 /* Footer & Contact */

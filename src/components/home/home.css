@@ -1311,19 +1311,11 @@
     flex: 0 0 450px;
 }
 
-.founder-img-wrap img,
-.founder-image-svg {
+.founder-img-wrap img {
     width: 100%;
     height: auto;
     border-radius: 6px;
     box-shadow: none;
-    image-rendering: crisp-edges;
-    image-rendering: -webkit-optimize-contrast;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    display: block;
 }
 
 /* --- Tablet (Max Width: 1024px) --- */

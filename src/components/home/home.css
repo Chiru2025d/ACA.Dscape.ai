@@ -1266,16 +1266,16 @@
 }
 
 .founder-role {
-    color: #4F4F4F;
+    color: #4f4f4f;
     text-align: justify;
-    font-family: "Be Vietnam", sans-serif;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: Be Vietnam, sans-serif;
     font-size: 15px;
     font-style: normal;
-    font-weight: 500;
+    font-weight: 300;
     line-height: 27px;
-    margin-bottom: 10px;
     display: block;
-    margin-top: 0;
 }
 
 .founder-bio {

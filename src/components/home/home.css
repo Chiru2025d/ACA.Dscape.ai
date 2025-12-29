@@ -138,13 +138,11 @@
 .hero-bg-carousel {
     position: absolute;
     top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    width: calc(100% - 40px);
+    left: 0;
+    width: 100%;
     height: 100%;
     z-index: 0;
     overflow: hidden;
-    border-radius: 12px;
 }
 
 .hero-bg-image {
@@ -456,9 +454,7 @@
 
     .hero-bg-carousel {
         position: relative;
-        left: 20px;
-        right: 20px;
-        width: calc(100% - 40px);
+        width: 100%;
     }
 
     .hero-content {

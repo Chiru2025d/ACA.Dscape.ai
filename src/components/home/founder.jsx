@@ -98,14 +98,12 @@ export default function Founder() {
                          <Image
                             src="/images/amar.svg"
                             alt="Amar Correa"
-                            className=''
+                            className='founder-image-svg'
                             width={400}
                             height={600}
                             priority
                             unoptimized={true}
-                            quality={100}
                             sizes="(max-width: 480px) 100%, (max-width: 768px) 100%, 450px"
-                            style={{ width: '100%', padding: '20px', objectFit: 'contain' }}
                         />
                     </div>
                 </div>
